@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716369601477",
+    "project_id": "absenpdam",
+    "storage_bucket": "absenpdam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716369601477:android:6d6fd3bbe85578919221ac",
+        "android_client_info": {
+          "package_name": "com.example.mapsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716369601477-d15d1icmkr61v6gdt2380icpnnvm0c5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEQzKXwN_BspqCL0ioi-G5w5maVl9QBng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716369601477-d15d1icmkr61v6gdt2380icpnnvm0c5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
